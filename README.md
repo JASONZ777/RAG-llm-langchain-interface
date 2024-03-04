@@ -11,5 +11,6 @@ Generation model: gpt-3.5-turbo
 In Demo 2, we add memory history to support multiple-round chatting.
 
 Embedding model: OpenAI
+
 Generation model: llama2-7b-chat, quantized to 4bits
 
