@@ -12,5 +12,5 @@ In Demo 2, we write all functions into a jupyter notebook and add a memory histo
 
 Embedding model: OpenAI
 
-Generation model: llama2-7b-chat, quantized to 4bits
+Generation model: llama2-7b-chat, model quantized to 4bits
 
