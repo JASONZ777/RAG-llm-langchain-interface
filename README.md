@@ -14,3 +14,5 @@ Embedding model: OpenAI
 
 Generation model: llama2-7b-chat, model quantized to 4bits
 
+<img width="1099" alt="22ee964446e4c8cd7ffbfb5b14ef2a9" src="https://github.com/JASONZ777/RAG-llm-langchain-interface/assets/94668646/4565e3a2-2263-4f81-a230-9dc57f7d9509">
+
